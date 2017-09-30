@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QQ红包插件</string>
+    <string name="service_name">开启服务</string>
+    <string name="use_details">"\u0009\u0009\u0009\u00091、开启插件。
+\u0009\u0009\u0009\u00092、打开QQ应用
+\u0009\u0009\u0009\u00093、坐等红包进账。"</string>
+</resources>
